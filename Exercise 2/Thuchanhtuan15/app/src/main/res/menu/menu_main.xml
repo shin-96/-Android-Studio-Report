@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_input"
+        android:title="INPUT"
+        android:orderInCategory="1"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_use"
+        android:title="USE"
+        android:orderInCategory="2"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_list"
+        android:title="LIST"
+        android:orderInCategory="3"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_export_excel"
+        android:title="Export Excel"
+        android:orderInCategory="4"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_export_pdf"
+        android:title="Export PDF"
+        android:orderInCategory="5"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_export_xml"
+        android:title="Export XML"
+        android:orderInCategory="6"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_import_excel"
+        android:title="Import Excel"
+        android:orderInCategory="7"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_import_xml"
+        android:title="Import XML"
+        android:orderInCategory="8"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_change_password"
+        android:title="Đổi mật khẩu"
+        android:orderInCategory="9"
+        app:showAsAction="never" />
+</menu>

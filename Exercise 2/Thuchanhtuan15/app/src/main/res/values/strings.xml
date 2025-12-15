@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Khách Hàng Thân Thiết</string>
+    <string name="input_point">Nhập điểm</string>
+    <string name="use_point">Sử dụng điểm</string>
+    <string name="customer_list">Danh sách khách hàng</string>
+</resources>
